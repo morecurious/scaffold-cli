@@ -1,0 +1,16 @@
+.DS_Store
+*.log
+node_modules/
+dll/
+lib/
+.cache/
+.vscode/
+.vs/
+.history
+.conf.js
+
+
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
